@@ -1,7 +1,3 @@
-Here is the merged README, combining your specific hardware pinouts and status indicators from "ESP32-CAM BIRD DETERRENCE SYSTEM.txt" with the architectural and failsafe details we established earlier.
-
----
-
 # ESP32-CAM Bird Deterrence System
 
 ## Project Overview
