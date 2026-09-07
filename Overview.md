@@ -1,6 +1,4 @@
-Here is a clean, professional README structure tailored directly to the hardware and logic we have been building. You can copy and paste this directly into your GitHub repository.
-
-## Project Overview
+## Introduction
 
 This repository contains the firmware and trained Edge Impulse machine learning model for a low-power, AI-driven bird deterrent system. Designed to operate autonomously, the system remains in deep sleep to conserve power until motion is detected. Upon waking, the ESP32-CAM captures an image, processes it through an onboard neural network to verify the presence of a bird, and triggers a high-decibel audio deterrent if a positive match is found.
 
